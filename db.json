@@ -4,18 +4,6 @@
     "displayname": "Accufarm",
     "name": "accufarm",
     "stacksize": 29,
-    "maxdurability": 80,
-    "enchantcategories": [
-      "vanishable",
-      "weapon",
-      "armor_chest"
-    ],
-    "repairwith": [
-      "jungle_planks",
-      "crimson_planks"
-    ],
-    "createddate": "2018-12-17",
-    "updateddate": "2017-02-25"
   },
   {
     "id": 2,
