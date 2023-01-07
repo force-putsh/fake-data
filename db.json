@@ -1,280 +1,92 @@
 [
   {
     "id": 1,
-    "displayname": "Accufarm",
-    "name": "accufarm",
-    "stacksize": 29,
+    "displayname": "Digitalus",
+    "name": "digitalus"
   },
   {
     "id": 2,
-    "displayname": "Slofast",
-    "name": "slofast",
-    "stacksize": 30,
-    "maxdurability": 89,
-    "enchantcategories": [
-      "breakable",
-      "breakable",
-      "armor_head"
-    ],
-    "repairwith": [
-      "warped_planks"
-    ],
-    "createddate": "2017-08-03",
-    "updateddate": null
+    "displayname": "Mangelica",
+    "name": "mangelica"
   },
   {
     "id": 3,
-    "displayname": "Quilch",
-    "name": "quilch",
-    "stacksize": 2,
-    "maxdurability": 61,
-    "enchantcategories": [
-      "weapon"
-    ],
-    "repairwith": [
-      "oak_planks",
-      "oak_planks"
-    ],
-    "createddate": "2019-02-06",
-    "updateddate": null
+    "displayname": "Bluplanet",
+    "name": "bluplanet"
   },
   {
     "id": 4,
-    "displayname": "Zanity",
-    "name": "zanity",
-    "stacksize": 43,
-    "maxdurability": 10,
-    "enchantcategories": [
-      "weapon",
-      "armor_chest"
-    ],
-    "repairwith": [
-      "jungle_planks",
-      "oak_planks"
-    ],
-    "createddate": "2014-11-29",
-    "updateddate": "2022-02-02"
+    "displayname": "Zappix",
+    "name": "zappix"
   },
   {
     "id": 5,
-    "displayname": "Zilladyne",
-    "name": "zilladyne",
-    "stacksize": 22,
-    "maxdurability": 15,
-    "enchantcategories": [
-      "weapon",
-      "armor_chest",
-      "vanishable"
-    ],
-    "repairwith": [
-      "crimson_planks",
-      "dark_oak_planks"
-    ],
-    "createddate": "2017-05-21",
-    "updateddate": "2015-04-23"
+    "displayname": "Eschoir",
+    "name": "eschoir"
   },
   {
     "id": 6,
-    "displayname": "Quizmo",
-    "name": "quizmo",
-    "stacksize": 48,
-    "maxdurability": 10,
-    "enchantcategories": [],
-    "repairwith": [
-      "warped_planks",
-      "acacia_planks"
-    ],
-    "createddate": "2018-10-01",
-    "updateddate": null
+    "displayname": "Playce",
+    "name": "playce"
   },
   {
     "id": 7,
-    "displayname": "Zanilla",
-    "name": "zanilla",
-    "stacksize": 39,
-    "maxdurability": 104,
-    "enchantcategories": [],
-    "repairwith": [
-      "oak_planks",
-      "warped_planks"
-    ],
-    "createddate": "2021-02-11",
-    "updateddate": "2021-08-01"
+    "displayname": "Poochies",
+    "name": "poochies"
   },
   {
     "id": 8,
-    "displayname": "Enerforce",
-    "name": "enerforce",
-    "stacksize": 64,
-    "maxdurability": 18,
-    "enchantcategories": [
-      "armor_chest"
-    ],
-    "repairwith": [
-      "dark_oak_planks"
-    ],
-    "createddate": "2017-03-22",
-    "updateddate": "2018-09-05"
+    "displayname": "Voratak",
+    "name": "voratak"
   },
   {
     "id": 9,
-    "displayname": "Oronoko",
-    "name": "oronoko",
-    "stacksize": 39,
-    "maxdurability": 56,
-    "enchantcategories": [
-      "breakable",
-      "vanishable"
-    ],
-    "repairwith": [
-      "crimson_planks",
-      "oak_planks"
-    ],
-    "createddate": "2017-08-14",
-    "updateddate": "2015-04-01"
+    "displayname": "Urbanshee",
+    "name": "urbanshee"
   },
   {
     "id": 10,
-    "displayname": "Acrodance",
-    "name": "acrodance",
-    "stacksize": 18,
-    "maxdurability": 15,
-    "enchantcategories": [
-      "vanishable",
-      "weapon"
-    ],
-    "repairwith": [],
-    "createddate": "2019-04-30",
-    "updateddate": "2020-07-27"
+    "displayname": "Qimonk",
+    "name": "qimonk"
   },
   {
     "id": 11,
-    "displayname": "Navir",
-    "name": "navir",
-    "stacksize": 20,
-    "maxdurability": 78,
-    "enchantcategories": [
-      "armor_head",
-      "armor"
-    ],
-    "repairwith": [],
-    "createddate": "2017-12-11",
-    "updateddate": "2022-10-16"
+    "displayname": "Cubix",
+    "name": "cubix"
   },
   {
     "id": 12,
-    "displayname": "Snips",
-    "name": "snips",
-    "stacksize": 1,
-    "maxdurability": 77,
-    "enchantcategories": [
-      "digger"
-    ],
-    "repairwith": [],
-    "createddate": "2018-05-16",
-    "updateddate": null
+    "displayname": "Daisu",
+    "name": "daisu"
   },
   {
     "id": 13,
-    "displayname": "Translink",
-    "name": "translink",
-    "stacksize": 21,
-    "maxdurability": 63,
-    "enchantcategories": [
-      "armor",
-      "armor",
-      "digger"
-    ],
-    "repairwith": [
-      "jungle_planks"
-    ],
-    "createddate": "2015-10-31",
-    "updateddate": null
+    "displayname": "Quantalia",
+    "name": "quantalia"
   },
   {
     "id": 14,
-    "displayname": "Quantalia",
-    "name": "quantalia",
-    "stacksize": 47,
-    "maxdurability": 99,
-    "enchantcategories": [],
-    "repairwith": [
-      "crimson_planks",
-      "birch_planks"
-    ],
-    "createddate": "2017-11-28",
-    "updateddate": "2014-08-20"
+    "displayname": "Earthwax",
+    "name": "earthwax"
   },
   {
     "id": 15,
-    "displayname": "Genesynk",
-    "name": "genesynk",
-    "stacksize": 64,
-    "maxdurability": 8,
-    "enchantcategories": [],
-    "repairwith": [
-      "birch_planks"
-    ],
-    "createddate": "2022-01-15",
-    "updateddate": null
+    "displayname": "Katakana",
+    "name": "katakana"
   },
   {
     "id": 16,
-    "displayname": "Typhonica",
-    "name": "typhonica",
-    "stacksize": 8,
-    "maxdurability": 117,
-    "enchantcategories": [],
-    "repairwith": [
-      "oak_planks",
-      "crimson_planks"
-    ],
-    "createddate": "2021-10-19",
-    "updateddate": null
+    "displayname": "Waterbaby",
+    "name": "waterbaby"
   },
   {
     "id": 17,
-    "displayname": "Maxemia",
-    "name": "maxemia",
-    "stacksize": 64,
-    "maxdurability": 33,
-    "enchantcategories": [
-      "weapon",
-      "digger",
-      "digger"
-    ],
-    "repairwith": [
-      "warped_planks",
-      "dark_oak_planks"
-    ],
-    "createddate": "2022-07-20",
-    "updateddate": null
+    "displayname": "Comtext",
+    "name": "comtext"
   },
   {
     "id": 18,
-    "displayname": "Renovize",
-    "name": "renovize",
-    "stacksize": 17,
-    "maxdurability": 70,
-    "enchantcategories": [],
-    "repairwith": [
-      "dark_oak_planks",
-      "jungle_planks"
-    ],
-    "createddate": "2017-01-19",
-    "updateddate": "2016-10-27"
-  },
-  {
-    "id": 19,
-    "displayname": "Fuelworks",
-    "name": "fuelworks",
-    "stacksize": 50,
-    "maxdurability": 93,
-    "enchantcategories": [],
-    "repairwith": [
-      "acacia_planks"
-    ],
-    "createddate": "2022-03-21",
-    "updateddate": "2019-05-27"
+    "displayname": "Talkalot",
+    "name": "talkalot"
   }
 ]
